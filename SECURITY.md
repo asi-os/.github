@@ -1,8 +1,4 @@
----
-title: "Security Policy"
-about: "Security policy, vulnerability reporting, and response process for **ASIOS™**"
-contact: "security@karlex.ai"
----
+
 
 # 🛡️ Security Policy
 
