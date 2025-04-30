@@ -1,10 +1,4 @@
----
-name: "Feature request"
-about: "Suggest an idea to improve **ASIOS™**"
-title: "[FEATURE] Brief summary of the feature"
-labels: ["enhancement"]
-reviewers: []
----
+
 
 # 🚀 Feature Request
 
