@@ -1,9 +1,4 @@
 
-
-# Contributor Covenant Code of Conduct
-
-- [ ] I have read and agree to abide by this Code of Conduct.
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
