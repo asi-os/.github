@@ -1,3 +1,8 @@
+If you decide to exempt **20 lines** from the CLA Assistant requirement, you'll need to update the contributing guidelines to reflect this. You can specify that **small changes (under 20 lines)** don't require the CLA, making it clear that contributors don't have to sign it for minor edits.
+
+Here’s an updated version of your **Contributing to ASIOS™** guide:
+
+---
 
 # 🤝 Contributing to ASIOS™
 
@@ -12,6 +17,7 @@ All code under “Must Be Developed” (per the [ROADMAP](https://github.com/asi
 1. **Sign the CLA**  
    - **Individual contributors:** sign the [ICLA](https://github.com/asi-os/asios-legal/blob/main/ICLA.md) via the CLA Assistant bot (prompts automatically on your first PR).  
    - **Company contributors:** ensure your organization has signed the [CCLA](https://github.com/asi-os/asios-legal/blob/main/CCLA.md) first.
+   - **Exemption for Small Changes:** If your pull request only modifies **fewer than 20 lines**, the CLA is **not required**. These minor changes may include fixes for typos, formatting adjustments, or small updates.
 
 2. **DCO Sign-off**  
    Every commit needs a `Signed-off-by:` line.  
@@ -68,3 +74,4 @@ See [CLA & DCO Help »](https://github.com/asi-os/asios-legal/blob/main/CLA-HELP
 
 > **Thank you for contributing!** Together, we’re building the ethical infrastructure for tomorrow’s AI. 🚀  
 > © 2025 KarLex AI, Inc. — see [Legal & Governance Portal](https://asios.ai/legal)
+
