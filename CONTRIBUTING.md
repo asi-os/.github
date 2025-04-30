@@ -1,7 +1,3 @@
----
-name: "Contributing"
-about: "Guidelines for contributing to **ASIOS™**"
----
 
 # 🤝 Contributing to ASIOS™
 
