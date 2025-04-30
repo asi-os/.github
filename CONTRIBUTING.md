@@ -9,7 +9,7 @@ Thank you for your interest in improving **ASIOS™**! We welcome bug fixes, new
 
 ## 1. Legal Prerequisites
 
-All code under “Must Be Developed” (per the [ROADMAP](https://github.com/asi-os/asios-docs/blob/main/ROADMAP.md)) is licensed AGPL-3.0-or-later. To contribute, you must:
+All code under “Must Be Developed” (per the [ARCHITECTURE](https://github.com/asi-os/asios-docs/blob/main/ARCHITECTURE.md)) is licensed AGPL-3.0-or-later. To contribute, you must:
 
 1. **Sign the CLA**  
    - **Individual contributors:** sign the [ICLA](https://github.com/asi-os/asios-legal/blob/main/ICLA.md) via the CLA Assistant bot (prompts automatically on your first PR).  
