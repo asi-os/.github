@@ -1,7 +1,3 @@
----
-title: "Support"
-about: "Where to get help with ASIOS™"
----
 
 # 🆘 Support
 
