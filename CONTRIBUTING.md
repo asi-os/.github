@@ -1,6 +1,3 @@
-If you decide to exempt **20 lines** from the CLA Assistant requirement, you'll need to update the contributing guidelines to reflect this. You can specify that **small changes (under 20 lines)** don't require the CLA, making it clear that contributors don't have to sign it for minor edits.
-
-Here’s an updated version of your **Contributing to ASIOS™** guide:
 
 ---
 
