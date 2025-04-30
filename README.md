@@ -1,7 +1,4 @@
----
-title: "Organization Health Files"
-about: "Default health and policy files applied across the asi-os GitHub organization"
----
+
 
 # 🏛️ Organization Health Files
 
