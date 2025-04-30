@@ -1,9 +1,4 @@
----
-title: "Contributor Covenant Code of Conduct"
-version: "1.0"
-effective_date: "2025-04-29"
-contact: "conduct@karlexai.com"
----
+
 
 # Contributor Covenant Code of Conduct
 
