@@ -1,10 +1,3 @@
----
-name: "Bug report"
-about: "Report a bug to help improve **ASIOS™**"
-title: "[BUG] Brief summary of the bug"
-labels: ["bug"]
-reviewers: []
----
 
 # 🐞 Bug Report
 
