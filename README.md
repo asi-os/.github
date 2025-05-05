@@ -1,6 +1,7 @@
 
 
 # 🏛️ Organization Health Files
+[![Sponsor](https://img.shields.io/github/sponsors/asi-os?label=Sponsor&logo=github)](https://github.com/sponsors/asi-os)
 
 This repository holds the default health and policy files for all repositories under the **asi-os** GitHub organization. GitHub automatically applies these files wherever they exist, ensuring **consistent governance, contribution guidelines, security standards, and community experience** across all ASIOS™ projects.
 
