@@ -21,7 +21,7 @@ If you discover a security vulnerability in **ASIOS™**, please:
 
 1. **Email the Security Team**  
    Include proof-of-concept, exploit steps, affected versions, and any relevant logs or patches.  
-   Send to `security@karlex.ai`.
+   Send to `security@karlexi.com`.
 
 2. **Acknowledgment & Timeline**  
    - Acknowledge receipt within **48 hours**  
