@@ -1,0 +1,52 @@
+ASIOS™ LICENSE SUMMARY
+
+This file summarizes the licenses governing ASIOS™ and its companion modules.  Full license texts are in each repository’s licenses/ directory.
+
+──────────────────────────────────────────────────────────────────────────────
+1. Open‑Source Core & Community Modules
+──────────────────────────────────────────────────────────────────────────────
+
+• GPL‑2.0‑only  
+  Applies to: asios-core (kernel patches & in‑kernel modules)
+
+• GPL‑3.0‑or‑later  
+  Applies to: asios-userspace (user‑space daemons, services, utilities)
+
+• AGPL‑3.0‑or‑later  
+  Applies to: community modules (e.g. asios-community) and all “must‑be‑developed” roadmap deliverables
+
+• MIT  
+  Applies to: helper tools, utility scripts, examples
+
+• Apache‑2.0  
+  Applies to: build tooling, developer SDKs, and other engineering assets
+
+• CC‑BY‑SA‑4.0  
+  Applies to: documentation, tutorials, website content
+
+──────────────────────────────────────────────────────────────────────────────
+2. Proprietary / Commercial Modules
+──────────────────────────────────────────────────────────────────────────────
+
+• KarLex AI Commercial License  
+  Applies to: proprietary enterprise modules, binary‑only components  
+  Summary: All rights reserved. Redistribution, reverse‑engineering, and modification prohibited without separate written agreement. See licenses/KarLexAI-Commercial.txt for full text.
+
+──────────────────────────────────────────────────────────────────────────────
+3. Third‑Party Dependencies
+──────────────────────────────────────────────────────────────────────────────
+
+All third‑party code is used according to its original license.  See third-party-licenses/ for full attributions and texts (GPL, LGPL, MIT, Apache, NVIDIA EULA, etc.).
+
+──────────────────────────────────────────────────────────────────────────────
+4. Contributor Agreements & Developer Certificate
+──────────────────────────────────────────────────────────────────────────────
+
+• ICLA (Individual CLA)  
+• CCLA (Corporate CLA)  
+• DCO (Developer Certificate of Origin) – each commit must include a “Signed‑off‑by” line
+
+See CLA-HELP.md, ICLA.md, CCLA.md, and DCO.md for details.
+
+──────────────────────────────────────────────────────────────────────────────
+© 2025 KarLex AI, Inc. — visit https://asios.ai/legal
