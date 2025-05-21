@@ -18,9 +18,8 @@ ASIOS™ (Artificial Superintelligence Operating System) is a next‑generation,
 ## Connect With Us
 
 * 🌐 Website: [https://asios.ai](https://asios.ai)
-* 📖 Docs: [https://docs.asios.ai](https://docs.asios.ai)
-* 💬 Discord: [https://discord.gg/asios](https://discord.gg/asios)
-* 📩 Contact: [support@asios.ai](mailto:support@asios.ai)
+* 💬 Discord: [https://discord.gg/asios](https://discord.gg/rWuU7cWU4E)
+* 📩 Contact: [support@asios.ai](mailto:support@karlexai.com)
 
 ---
 
